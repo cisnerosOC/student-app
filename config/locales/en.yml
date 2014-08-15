@@ -12,7 +12,7 @@
 #
 # To use a different locale, set it with `I18n.locale`:
 #
-#     I18n.locale = :es
+    # I18n.locale = :es
 #
 # This would use the information in config/locales/es.yml.
 #
@@ -21,3 +21,15 @@
 
 en:
   hello: "Hello world"
+  new_student: "Create New Student"
+  first_name: "First Name"
+  last_name: "Last Name"
+  address1: "Primary Address"
+  address2: "Secondary Address"
+  added: "Student was added successfully."
+  update: "Student Info Updated Successfully."
+  index: "Students"
+  update_btn: "Update Student Information"
+  action: "Action"
+  edit_student: "Edit Student Information"
+  error: "prohibited this Student from being saved:"

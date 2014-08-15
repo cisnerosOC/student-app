@@ -1,7 +1,7 @@
 == README
 This is "Hello World" ROR application which creates and updates new students and their addresses using nested_attributes. The app is also set up with localization for both enlish and spanish.
 
-* Clone Rep
+* Clone Repo
 * CD in to the student-app directory 
 * Run Bundle 
 * rake db:create
